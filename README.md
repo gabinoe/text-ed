@@ -1,6 +1,4 @@
-# Just Another Text Editor (J.A.T.E)
-
-![J.A.T.E Logo](./assets/icons/icon_96x96.png)
+# text-ed
 
 J.A.T.E (Just Another Text Editor) is a simple web-based text editor application that allows users to create and edit text files right in their web browser. The application is built using HTML, CSS, and JavaScript and utilizes the CodeMirror library for providing an interactive and customizable text editing experience.
 
@@ -19,13 +17,10 @@ To run the J.A.T.E application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
-Alternatively, you can access the live version of J.A.T.E by visiting the [demo website](https://example.com).
 
 ## Dependencies
 
 J.A.T.E relies on the following external libraries:
-
-- [CodeMirror](https://codemirror.net/): A versatile text editor implemented in JavaScript for the web.
 
 ## Installation
 it is a web-based application. Simply open the URL in your web browser to access the editor.
@@ -54,6 +49,10 @@ J.A.T.E was created as a sample project to demonstrate web-based text editor fun
 
 For questions, issues, or inquiries related to J.A.T.E, please contact:
 
+## LINKS
+
+- repo: https://github.com/gabinoe/text-ed
+- pages: https://gabinoe.github.io/text-ed
 
 
 ## Contributing
